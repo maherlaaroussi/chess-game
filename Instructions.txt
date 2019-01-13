@@ -1,0 +1,13 @@
+Pour compiler :
+cd src/
+make
+
+Après, revenir dans la racine du dossier et lancer le jeu :
+cd ../
+./jeu
+
+Pour replay une partie :
+./jeu nompartie
+
+Replay avec un temps prédéfinit :
+./jeu nompartie 2
